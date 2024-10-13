@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .has-mobile-font-sizes,
+    .has-mobile-font-sizes[class*="has-"][class*="-font-size"] {
+        font-size: var(--mobile-font-size) !important;
+    }
+
+    .has-mobile-line-height {
+        line-height: var(--mobile-line-height) !important;
+    }
+}

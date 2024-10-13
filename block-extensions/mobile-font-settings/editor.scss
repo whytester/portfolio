@@ -1,0 +1,5 @@
+@media (max-width: 781px) {
+    .editor-styles-wrapper .has-mobile-font-sizes *[class*="has-"][class*="-font-size"] {
+        font-size: var(--mobile-font-size) !important;
+    }
+}

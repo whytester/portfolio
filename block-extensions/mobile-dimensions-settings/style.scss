@@ -1,0 +1,29 @@
+@media (max-width: 781px) {
+    /* Padding */
+  .has-mobile-padding--top {
+    padding-top: var(--mobile-padding-top, inherit) !important;
+  }
+  .has-mobile-padding--bottom {
+    padding-bottom: var(--mobile-padding-bottom, inherit) !important;
+  }
+  .has-mobile-padding--left {
+    padding-left: var(--mobile-padding-left, inherit) !important;
+  }
+  .has-mobile-padding--right {
+    padding-right: var(--mobile-padding-right, inherit) !important;
+  }
+
+  /* Margin */
+  .has-mobile-margin--top {
+    margin-top: var(--mobile-margin-top, inherit) !important;
+  }
+  .has-mobile-margin--bottom {
+    margin-bottom: var(--mobile-margin-bottom, inherit) !important;
+  }
+  .has-mobile-margin--left {
+    margin-left: var(--mobile-margin-left, inherit) !important;
+  }
+  .has-mobile-margin--right {
+    margin-right: var(--mobile-margin-right, inherit) !important;
+  }
+}
