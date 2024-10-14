@@ -28,7 +28,7 @@ Maintain the site, helping debug issues from legacy code and build out pages to 
 
 **Leaddev**
 [Leaddev.com](https://Leaddev.com) [^1]
-* LeadDev is a platform focused on supporting engineering leaders through insightful content, conferences, and events. It provides a space for senior engineering professionals to engage with the latest industry trends, best practices, and leadership strategies.*
+*LeadDev is a platform focused on supporting engineering leaders through insightful content, conferences, and events. It provides a space for senior engineering professionals to engage with the latest industry trends, best practices, and leadership strategies.*
 
 Working as part of the development team to build a clean, modern WordPress theme for content migrated from Drupal. We utilized the latest WordPress technologies, including theme.json to minimize CSS enqueues and Gutenberg blocks for flexible content management. I served as the primary support contact for daily issues, attended weekly client meetings, and participated in daily team standups. Our team followed a structured process using PRs for code reviews.
 
