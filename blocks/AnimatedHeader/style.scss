@@ -1,0 +1,11 @@
+.finisher-header {
+    width: 100%;
+    max-width: unset !important;
+    position: relative;
+    margin-top: 0 !important;
+
+    &--is-fixed {
+        position: fixed;
+        top: 0;
+    }
+}
