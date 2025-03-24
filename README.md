@@ -24,7 +24,20 @@ Responsible primarily for improving their editorial capabilities working in a sm
 [myfamilytravels.com](https://myfamilytravels.com/)
 *A US based family travel resource hub offering tips, destination guides, and travel news.*
 
-Maintain the site, helping debug issues from legacy code and build out pages to assist with SEO , from author pages to de-indexing low traffic content, handling tag manager additions and general code refactoring.
+My Contributions:
+
+- **Social Media Integration:** Enhanced social media link handling, icons, and display.
+
+- **Author Profile Enhancements:** Improved author bio display, mobile styling, and URL handling.
+
+- **UI & Styling:** Refined CSS for mobile menus, spacing, and overall layout.
+
+- **Performance & Debugging:** Optimized scripts, removed unused plugins, and fixed display issues.
+
+- **SEO Improvements:** Adjusted indexing rules and canonical URLs for better search visibility.
+
+- **Deployment & Security:** Managed build processes, updated API keys, and refined WordPress configurations.
+
 
 **Leaddev**
 [Leaddev.com](https://Leaddev.com)
