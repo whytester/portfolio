@@ -8,13 +8,22 @@ I’ve transitioned from float to flex, Gulp to Webpack, SCSS to theme.json, and
 
 **Examples of some my current clients:**
 
-**Futurelearn**
+### **Futurelearn**
 [futurelearn.com/info](https://futurelearn.com/info)
 *The info portal for a multinational online-degree system from leading universities.*
 
-Tasked with supporting the client site while helping refactor old legacy php code, updating their asset build system while providing regular support and SEO assistance from page speed improvement to de-indexing content.
+My Contributions
+- **UI & Styling Enhancements:** Improved blog layouts, button styles, course card design, and pagination.  
 
-**Beekeeper**
+- **Performance & Optimization:** Removed unused assets, optimized stylesheets and scripts, and refined asset loading.  
+
+- **SEO & Accessibility Improvements:** Updated structured data handling, improved sitemap generation, and adjusted canonical URLs.  
+
+- **Custom Functionality:** Developed and improved database interactions, CSV handling, and de-indexing features.  
+
+- **Deployment & Configuration:** Managed asset builds, updated theme settings, and enhanced WordPress configurations.  
+
+### **Beekeeper**
 [beekeeper.io/](https://www.beekeeper.io/)
 *The info portal promoting Beekeeper’s software platform designed to streamline team communication and collaboration in the workplace.*
 
@@ -31,7 +40,7 @@ My Contributions:
 
 - **Deployment & Configuration:** Managed WordPress settings, improved asset handling, and updated build processes.  
 
-**MyFamilyTravels**
+### **MyFamilyTravels**
 [myfamilytravels.com](https://myfamilytravels.com/)
 *A US based family travel resource hub offering tips, destination guides, and travel news.*
 
@@ -50,7 +59,7 @@ My Contributions:
 - **Deployment & Security:** Managed build processes, updated API keys, and refined WordPress configurations.
 
 
-**Leaddev**
+### **Leaddev**
 [Leaddev.com](https://Leaddev.com)
 *LeadDev is a platform focused on supporting engineering leaders through insightful content, conferences, and events. It provides a space for senior engineering professionals to engage with the latest industry trends, best practices, and leadership strategies.*
 
