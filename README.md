@@ -18,7 +18,18 @@ Tasked with supporting the client site while helping refactor old legacy php cod
 [beekeeper.io/](https://www.beekeeper.io/)
 *The info portal promoting Beekeeper’s software platform designed to streamline team communication and collaboration in the workplace.*
 
-Responsible primarily for improving their editorial capabilities working in a small team developing content blocks and maintenance/support of the site.
+My Contributions: 
+- **Custom Block Development:** Built and refined Gutenberg blocks, including flip tiles and video-related elements.  
+
+- **UI & Styling Enhancements:** Improved CSS for mobile responsiveness, grid layouts, and animations.  
+
+- **Video & Media Features:** Enhanced video pages, added popups, and refined autoplay behaviors.  
+
+- **Performance & Debugging:** Optimized scripts, improved caching, and removed redundant elements.  
+
+- **SEO & Content Structure:** Adjusted indexing rules, meta settings, and breadcrumbs for better discoverability.  
+
+- **Deployment & Configuration:** Managed WordPress settings, improved asset handling, and updated build processes.  
 
 **MyFamilyTravels**
 [myfamilytravels.com](https://myfamilytravels.com/)
