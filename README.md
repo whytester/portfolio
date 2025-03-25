@@ -74,3 +74,23 @@ My Contributions:
 - **Performance & Debugging:** Optimized scripts, removed unused styles, and fixed accessibility issues in menus and buttons.  
 
 - **Deployment & Configuration:** Managed asset caching, refined CLI commands, and updated WordPress settings for improved functionality.  
+
+
+
+
+
+### **Wrkplc**
+[wrkplc.co.uk](https://wrkplc.co.uk)
+*​WRKPLC is a platform dedicated to transforming perceptions of office environments by showcasing inspiring workplace designs and offering strategic services. Their mission is to demonstrate that offices can be dynamic and engaging spaces, countering the traditional view of workplaces as uninspiring.*
+
+My Contributions:  
+
+- **Custom Block Development:** Created and improved Gutenberg blocks, including podcast meta blocks and video-related elements.  
+
+- **UI & Styling Enhancements:** Enhanced mobile responsiveness, layout consistency, and button positioning.  
+
+- **SEO & Content Structure:** Adjusted category pages, archive templates, and structured data for better discoverability.  
+
+- **Performance & Debugging:** Optimized scripts, improved caching, and resolved rendering issues.  
+
+- **Deployment & Configuration:** Managed asset loading, refined admin panel settings, and updated build processes.  
